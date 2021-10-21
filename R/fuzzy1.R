@@ -1,5 +1,5 @@
 #' adding normal variables to a vector
-#' @param an input vector/number
+#' @param x a vector or number
 #' @return the input \code{x} + \code{rnorm}
 #' @examples
 #'  fuzzy1(1:5)

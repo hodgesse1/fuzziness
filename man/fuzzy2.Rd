@@ -6,6 +6,11 @@
 \usage{
 fuzzy2(n)
 }
+\arguments{
+\item{n}{an integer length}
+
+\item{x}{vector of length n}
+}
 \value{
 \code{y(n)}
 }

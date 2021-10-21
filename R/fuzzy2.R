@@ -1,6 +1,6 @@
 #' call the clean1 subroutine
-#' @param \code{n}
-#' @param \code{x(n)}
+#' @param n an integer length
+#' @param x vector of length n
 #' @return \code{y(n)}
 
 fuzzy2 <- function(n) {

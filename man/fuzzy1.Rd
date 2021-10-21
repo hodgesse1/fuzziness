@@ -7,7 +7,7 @@
 fuzzy1(x)
 }
 \arguments{
-\item{an}{input vector/number}
+\item{x}{a vector or number}
 }
 \value{
 the input \code{x} + \code{rnorm}
