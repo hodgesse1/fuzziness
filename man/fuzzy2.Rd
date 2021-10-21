@@ -8,11 +8,9 @@ fuzzy2(n)
 }
 \arguments{
 \item{n}{an integer length}
-
-\item{x}{vector of length n}
 }
 \value{
-\code{y(n)}
+\code{y(n)} 4*normal variables + 2
 }
 \description{
 call the clean1 subroutine

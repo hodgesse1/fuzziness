@@ -1,7 +1,7 @@
 #' call the clean1 subroutine
 #' @param n an integer length
-#' @param x vector of length n
-#' @return \code{y(n)}
+#'
+#' @return \code{y(n)} 4*normal variables + 2
 
 fuzzy2 <- function(n) {
   xa <- rnorm(n)
